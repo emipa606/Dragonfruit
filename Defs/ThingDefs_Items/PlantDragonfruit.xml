@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="PlantBase">
+		<defName>PlantDragonfruit</defName>
+		<label>dragonfruit plant</label>
+		<description>Delicate exotic fruit plant that can only be grown in rich soil.</description>
+    <statBases>
+      <MaxHitPoints>40</MaxHitPoints>
+      <Nutrition>0.25</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Things/DragonfruitPlant</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <selectable>true</selectable>
+    <pathCost>10</pathCost>
+    <ingestible />
+    <plant>
+		<fertilityMin>1.2</fertilityMin>
+		<fertilitySensitivity>0.6</fertilitySensitivity>
+		<dieIfLeafless>true</dieIfLeafless>
+		<harvestTag>Standard</harvestTag>
+		<harvestedThingDef>RawDragonfruit</harvestedThingDef>
+		<harvestYield>4</harvestYield>
+		<sowTags>
+			<li>Ground</li>
+		</sowTags>
+		<sowMinSkill>9</sowMinSkill>
+		<sowResearchPrerequisites>
+			<li>Dragonfruit</li>
+		</sowResearchPrerequisites>
+		<topWindExposure>0.1</topWindExposure>
+		<growDays>5</growDays>
+		<visualSizeRange>0.4~1.2</visualSizeRange>
+    </plant>
+  </ThingDef>
+</Defs>

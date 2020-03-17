@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ResearchProjectDef>
+		<defName>Dragonfruit</defName>
+		<label>dragonfruit</label>
+		<description>Delicate exotic fruit plant that can only be grown in rich soil.</description>
+		<baseCost>700</baseCost>
+		<techLevel>Neolithic</techLevel>
+		<tab>DragonfruitTab</tab>
+		<researchViewX>0</researchViewX>
+		<researchViewY>0</researchViewY>
+	</ResearchProjectDef>
+	
+	<ResearchProjectDef>
+		<defName>ExoticMeal</defName>
+		<label>exotic meal</label>
+		<description>A weak flavoured but very nutritional meal, prepared with a mix dragonfruit and other vegetables with a side of meat.</description>
+		<baseCost>300</baseCost>
+		<techLevel>Neolithic</techLevel>
+		<prerequisites>
+			<li>Dragonfruit</li>
+		</prerequisites>
+		<tab>DragonfruitTab</tab>
+		<researchViewX>1</researchViewX>
+		<researchViewY>0</researchViewY>
+	</ResearchProjectDef>
+
+</Defs>
