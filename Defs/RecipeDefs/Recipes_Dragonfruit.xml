@@ -1,60 +1,58 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-	<RecipeDef Name="CookMealExotic" ParentName="CookMealBase">
-		<defName>CookMealExotic</defName>
-		<recipeUsers>
-			<li>ElectricStove</li>
-			<li>FueledStove</li>
-		</recipeUsers>
-		<label>cook exotic meal</label>
-		<description>Cooks exotic meal.</description>
-		<jobString>Cooks exotic meal.</jobString>
-		<workSpeedStat>CookSpeed</workSpeedStat>
-		<effectWorking>Cook</effectWorking>
-		<soundWorking>Recipe_CookMeal</soundWorking>
-		<allowMixingIngredients>true</allowMixingIngredients>
-		<ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
-		<ingredients>
-			<li>
-				<filter>
-					<thingDefs>
-						<li>RawDragonfruit</li>
-					</thingDefs>
-				</filter>
-				<count>0.25</count>
-			</li>
-			<li>
-				<filter>
-					<categories>
-							<li>MeatRaw</li>
-							<li>AnimalProductRaw</li>
-					</categories>
-				</filter>
-				<count>0.25</count>
-			</li>
-			<li>
-				<filter>
-					<categories>
-						<li>PlantFoodRaw</li>
-					</categories>
-				</filter>
-				<count>0.25</count>
-			</li>
-		</ingredients>
-		<products>
-			<MealExotic>1</MealExotic>
-		</products>
-		<skillRequirements>
-		  <Cooking>5</Cooking>
-		</skillRequirements>
-		<researchPrerequisite>ExoticMeal</researchPrerequisite>
-		<fixedIngredientFilter>
-			<categories>
-				<li>FoodRaw</li>
-			</categories>
-		</fixedIngredientFilter>
-		<workAmount>1050</workAmount>
-	</RecipeDef>
+  <RecipeDef Name="CookMealExotic" ParentName="CookMealBase">
+    <defName>CookMealExotic</defName>
+    <recipeUsers>
+      <li>ElectricStove</li>
+      <li>FueledStove</li>
+    </recipeUsers>
+    <label>cook exotic meal</label>
+    <description>Cooks exotic meal.</description>
+    <jobString>Cooks exotic meal.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RawDragonfruit</li>
+          </thingDefs>
+        </filter>
+        <count>0.25</count>
+      </li>
+      <li>
+        <filter>
+          <categories>
+            <li>MeatRaw</li>
+            <li>AnimalProductRaw</li>
+          </categories>
+        </filter>
+        <count>0.25</count>
+      </li>
+      <li>
+        <filter>
+          <categories>
+            <li>PlantFoodRaw</li>
+          </categories>
+        </filter>
+        <count>0.25</count>
+      </li>
+    </ingredients>
+    <products>
+      <MealExotic>1</MealExotic>
+    </products>
+    <skillRequirements>
+      <Cooking>5</Cooking>
+    </skillRequirements>
+    <researchPrerequisite>ExoticMeal</researchPrerequisite>
+    <fixedIngredientFilter>
+      <categories>
+        <li>FoodRaw</li>
+      </categories>
+    </fixedIngredientFilter>
+    <workAmount>1050</workAmount>
+  </RecipeDef>
 </Defs>
-	
-	

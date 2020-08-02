@@ -1,25 +1,23 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-	<ThingDef ParentName="MealBase">
-			<defName>MealExotic</defName>
-			<label>exotic meal</label>
-			<description>A weak flavoured but very nutritional meal, prepared with a mix of dragonfruit and other vegetables with a side of meat.</description>
-		<graphicData>
-		  <texPath>Things/Exotic</texPath>
-		  <graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
-		<statBases>
-		  <MarketValue>30</MarketValue>
-		  <WorkToMake>600</WorkToMake>
-		  <Nutrition>1.00</Nutrition>
-		</statBases>
-		<ingestible>
-			<preferability>MealLavish</preferability>
-				<tasteThought>AteLavishMeal</tasteThought>
-			<ingestEffect>EatVegetarian</ingestEffect>
-			<ingestSound>Meal_Eat</ingestSound>
-		</ingestible>
-	</ThingDef>
-	
+  <ThingDef ParentName="MealBase">
+    <defName>MealExotic</defName>
+    <label>exotic meal</label>
+    <description>A weak flavoured but very nutritional meal, prepared with a mix of dragonfruit and other vegetables with a side of meat.</description>
+    <graphicData>
+      <texPath>Things/Exotic</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>30</MarketValue>
+      <WorkToMake>600</WorkToMake>
+      <Nutrition>1.00</Nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>MealLavish</preferability>
+      <tasteThought>AteLavishMeal</tasteThought>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+    </ingestible>
+  </ThingDef>
 </Defs>

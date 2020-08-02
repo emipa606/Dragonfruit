@@ -1,10 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
   <ThingDef ParentName="PlantFoodRawBase">
     <defName>RawDragonfruit</defName>
-		<label>dragonfruit</label>
-		<description>A exotic fruit that is respected as a delicacy.</description>
+    <label>dragonfruit</label>
+    <description>A exotic fruit that is respected as a delicacy.</description>
     <graphicData>
       <texPath>Things/Dragonfruit</texPath>
     </graphicData>
@@ -14,7 +13,7 @@
     <comps>
       <li Class="CompProperties_Rottable">
         <daysToRotStart>14</daysToRotStart>
-				<rotDestroys>true</rotDestroys>
+        <rotDestroys>true</rotDestroys>
       </li>
     </comps>
     <ingestible>
