@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Dragonfruit (Continued)</name>
   <packageId>Mlie.Dragonfruit</packageId>
@@ -7,19 +7,25 @@
   <supportedVersions>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>Update of Aaron Drummonds mod for RimWorld 1.1
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of Aaron Drummonds mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=946125475
 
-Support-chat:
-https://discord.gg/SuhwVpM
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
-Non-steam version:
-https://github.com/emipa606/Dragonfruit
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/Dragonfruit][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
 	
---- Original Description ---
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+
 A simple addition of a new fruit plant, Dragonfruit.
 This new fruit is very difficult to sow as it requires a growing skill of 9.
 They only grow in rich soil and each plant requires 5 days to grow.
@@ -31,5 +37,18 @@ The dragonfruit itself has the qualities of a basic raw veg but has a greater va
 There is also a new meal 'Exotic Meal' which requires dragonfruit to be prepared, this also needs to be researched.
 Exotic meals require 5 dragonfruit, 5 meat or animal product and 5 veg which is not dragonfruit.
 They have a similar quality to lavish meals yet only need 15 ingredients and there base value is 30.
-To prepare exotic meals pawns will need a cooking skill of 5.</description>
+To prepare exotic meals pawns will need a cooking skill of 5.
+
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+
