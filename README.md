@@ -1,23 +1,14 @@
 # Dragonfruit
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Aaron Drummonds mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=946125475
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/Dragonfruit]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 A simple addition of a new fruit plant, Dragonfruit.
@@ -34,7 +25,7 @@ They have a similar quality to lavish meals yet only need 15 ingredients and the
 To prepare exotic meals pawns will need a cooking skill of 5.
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -44,6 +35,7 @@ To prepare exotic meals pawns will need a cooking skill of 5.
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
