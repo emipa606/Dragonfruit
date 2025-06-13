@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  <!-- EN: cook exotic meal -->
   <CookMealExotic.label>cook exotic meal</CookMealExotic.label>
+  <!-- EN: Cooks exotic meal. -->
   <CookMealExotic.description>Cooks exotic meal.</CookMealExotic.description>
+  <!-- EN: Cooks exotic meal. -->
   <CookMealExotic.jobString>Cooks exotic meal.</CookMealExotic.jobString>
 </LanguageData>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  <!-- EN: exotic meal -->
   <MealExotic.label>exotic meal</MealExotic.label>
+  <!-- EN: A weak flavoured but very nutritional meal, prepared with a mix of dragonfruit and other vegetables with a side of meat. -->
   <MealExotic.description>A weak flavoured but very nutritional meal, prepared with a mix of dragonfruit and other vegetables with a side of meat.</MealExotic.description>
 </LanguageData>
