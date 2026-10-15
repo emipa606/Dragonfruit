@@ -37,4 +37,4 @@ To prepare exotic meals pawns will need a cooking skill of 5.
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/Dragonfruit?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2025673330) | tags: exotic meal, plant research
+[![Image](https://img.shields.io/github/v/release/emipa606/Dragonfruit?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2025673330) | plant research, exotic meal
